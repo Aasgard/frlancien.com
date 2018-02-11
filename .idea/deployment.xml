@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="frlancien.com" preserveTimestamps="false" promptOnLocalOverwrite="false">
+    <serverData>
+      <paths name="brocapeche.frlancien.com [OVH]">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="frlancien.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/gesticompte" />
+            <excludedPath path="/hackathon" />
+            <excludedPath path="/brocapeche" />
+            <excludedPath local="true" path="$PROJECT_DIR$/gesticompte" />
+            <excludedPath local="true" path="$PROJECT_DIR$/hackathon" />
+            <excludedPath local="true" path="$PROJECT_DIR$/brocapeche" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="gesticompte FRLANCIEN">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gesticompte [frlancien.com]">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gesticompte frlancien remote">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="imagestest [frlancien.com]">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

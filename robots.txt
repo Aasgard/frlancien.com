@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /css/
+Disallow: /documentation/
+Disallow: /images/
+Disallow: /js/
+Disallow: /phpmailer/
+Disallow: /single-post.html
+Disallow: /submit.php
